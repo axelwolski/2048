@@ -1,0 +1,7 @@
+#2048
+2048 en C avec affichage SDL
+projet réaliser en Licence 2 informatique à l'université de Bordeaux
+
+Placez-vous dans le fichier build.
+Compilez le projet à l'aide de "cmake.. && make"
+Lancez le jeu et amusez-vous
