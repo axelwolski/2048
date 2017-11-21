@@ -1,7 +1,9 @@
-#2048
 2048 en C avec affichage SDL
-projet réaliser en Licence 2 informatique à l'université de Bordeaux
+Projet réalisé en Licence 2 informatique à l'université de Bordeaux
 
-Placez-vous dans le fichier build.
-Compilez le projet à l'aide de "cmake.. && make"
+Compilez le projet à l'aide de "cmake ."
+Placez-vous dans le dossier "build" et compilez avec "make"
 Lancez le jeu et amusez-vous
+
+"2048Ncurses" => 2048 dans le terminal
+"2048SDL" => 2048 avec affichage graphique
